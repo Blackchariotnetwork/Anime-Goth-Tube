@@ -1,0 +1,6 @@
+{
+  "name": "KUROTUBE // White Cyber Terminal Video System",
+  "description": "Minimalist black and white cyber-terminal video stream platform featuring the user's artwork logo, floating Japanese calligraphy, and cyber media feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
